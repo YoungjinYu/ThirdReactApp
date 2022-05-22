@@ -1,3 +1,3 @@
 # ThirdReactApp
 
-![image](https://user-images.githubusercontent.com/99486972/169686628-f6c3f068-22ba-441c-acec-e06f9c6e1516.png)
+ ![image](https://user-images.githubusercontent.com/99486972/169686645-64f3d7f5-1c01-4027-b323-d73255d519a6.png)
